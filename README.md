@@ -22,3 +22,11 @@
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+<p>
+  <a>
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="Discord">
+    <h3>_some.js_</h3>
+  </a>
+</p>
+
