@@ -25,8 +25,7 @@
 
 <p>
   <a>
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="Discord">
-    <h3>_some.js_</h3>
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=_some.js_&logoColor=white" alt="Discord">
   </a>
 </p>
 
