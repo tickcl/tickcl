@@ -1,4 +1,4 @@
-<img align="left" width="490" height="165" src="https://awesome-github-stats.azurewebsites.net/user-stats/somebodyscript?cardType=github&theme=dark&preferLogin=false&Background=2A2A2A3E"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/somebodyscript?cardType=github&theme=dark&preferLogin=false&Background=2A2A2A3E"/>
 
 ### Utilities & Platforms
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
