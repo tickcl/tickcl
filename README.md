@@ -24,9 +24,9 @@
 </p>
 
 <p>
-  <a>
+  <a href="https://discord.com/users/817425811115212810">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="Discord">
-    _some.js_
   </a>
 </p>
+
 
