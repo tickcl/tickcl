@@ -26,7 +26,7 @@
                     
 ---
 
-## Total Visits
+## Total Profile Visits
 
 <img src="https://profile-counter.glitch.me/somebodyscript/count.svg">
 
