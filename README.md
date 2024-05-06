@@ -1,4 +1,4 @@
-### Hi there 👋
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/somebodyscript?cardType=github&theme=dark&preferLogin=false&Background=2A2A2A3E)](https://git.io/awesome-stats-card)
 
 <!--
 **somebodyscript/somebodyscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
