@@ -12,3 +12,13 @@
 <img align="left" width="490" height="165" src="https://awesome-github-stats.azurewebsites.net/user-stats/somebodyscript?cardType=github&theme=dark&preferLogin=false&Background=2A2A2A3E"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somebodyscript&hide_progress=false">
+
+---
+
+## Contact Me
+
+<p>
+  <a href="mailto:some@gostar.app">
+    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
