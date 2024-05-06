@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somebodyscript&hide_progress=false">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=somebodyscript&theme=dark)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=somebodyscript&theme=dark">
 
 ---
 
