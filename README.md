@@ -12,9 +12,3 @@
 <img align="left" width="490" height="165" src="https://awesome-github-stats.azurewebsites.net/user-stats/somebodyscript?cardType=github&theme=dark&preferLogin=false&Background=2A2A2A3E"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somebodyscript&hide_progress=false">
-
----
-
-## Get in Touch
-
-Feel free to connect with me on GitHub for collaborations or discussions on exciting projects!
