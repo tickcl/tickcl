@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4FF93&repeat=false&random=false&width=435&lines=some.js)](https://github.com)
+![some.js](https://github.com/somebodyscript/somebodyscript/assets/144458220/84310d29-d692-4fa0-9d4f-77f548608fa2)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4FF93&repeat=false&random=false&width=435&lines=some.js)](https://github.com)
 ## Utilities & Platforms
 
 |           |                   |                |               |             |
