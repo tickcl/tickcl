@@ -29,13 +29,3 @@
 ## Total Profile Visits
 
 <img src="https://profile-counter.glitch.me/tickcl/count.svg">
-
-## Contact Me
-
-<p>
-  <a href="mailto:some@gostar.app">
-    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-
