@@ -1,6 +1,4 @@
-![some.js](https://github.com/somebodyscript/somebodyscript/assets/144458220/84310d29-d692-4fa0-9d4f-77f548608fa2)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4FF93&repeat=false&random=false&width=435&lines=some.js)](https://github.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4FF93&repeat=false&random=false&width=435&lines=tickcl)](https://github.com)
 ## Utilities & Platforms
 
 |           |                   |                |               |             |
@@ -13,11 +11,11 @@
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=somebodyscript&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tickcl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somebodyscript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tickcl)
 
-![Streak Stats](https://streak-stats.demolab.com?user=somebodyscript&theme=dark)
+![Streak Stats](https://streak-stats.demolab.com?user=tickcl&theme=dark)
 
 ---
 
@@ -30,7 +28,7 @@
 
 ## Total Profile Visits
 
-<img src="https://profile-counter.glitch.me/somebodyscript/count.svg">
+<img src="https://profile-counter.glitch.me/tickcl/count.svg">
 
 ## Contact Me
 
